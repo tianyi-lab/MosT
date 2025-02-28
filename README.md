@@ -1,12 +1,12 @@
 # MosT: Many-Objective Multi-Solution Transport
 
+[![arXiv](https://img.shields.io/badge/arXiv-2403.04099-b31b1b.svg)](https://arxiv.org/pdf/2403.04099)
+
 This repository contains the official implementation of the paper **"Many-Objective Multi-Solution Transport"**, which has been accepted for **ICLR 2025**. The paper introduces **MosT**, a novel algorithm designed for solving both many-objective (e.g., federated learning) and few-objective (e.g., ZDT problems) optimization scenarios.
 
 MosT efficiently finds diverse solutions across the Pareto front, ensuring balanced trade-offs even when the number of objectives outnumbers the solutions. The algorithm outperforms state-of-the-art methods in several applications, including federated learning, multi-task learning, and mixture-of-prompt learning for large language models (LLMs).
 
 ![alt text](syn_radar_map_all.jpg)
-
-[![arXiv](https://img.shields.io/badge/arXiv-2403.04099-b31b1b.svg)](https://arxiv.org/pdf/2403.04099)
 
 ---
 
